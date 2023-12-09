@@ -21,10 +21,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/jdhfvlcq-the-lessful" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jdhfvlcq-the-lessful" height="30" width="40" /></a>
-<a href="https://twitter.com/raviranjan5389" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raviranjan5389" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/raviranjan940" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raviranjan940" height="30" width="40" /></a>
-<a href="https://fb.com/ravi-ranjan/100013827531045/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ravi-ranjan/100013827531045/" height="30" width="40" /></a>
-<a href="https://instagram.com/raviranjan_143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raviranjan_143" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/raviranjan_940" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="raviranjan_940" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/raviranjandav940" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="raviranjandav940" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/raviranjan940" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="raviranjan940" height="30" width="40" /></a>
@@ -42,3 +38,14 @@
  <a href="https://quine.sh/profile/raviranjan940"><img src="https://stats.quine.sh/raviranjan940/github?theme=dark" alt="raviranjan940's GitHub stats" width="400px"></a>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raviranjan940&exclude_repo=NeetCode-150&theme=tokyonight">
 </p>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/raviranjan940" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Linkedin_svg-256.png" height="50" width="50" alt="https://linkedin.com/in/raviranjan940" /></a>
+<a href="https://twitter.com/raviranjan5389" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-contained-256.png" height="50" width="50" alt="https://twitter.com/raviranjan5389" /></a>
+<a href="https://fb.com/ravi-ranjan/100013827531045/" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/social-media-black-white-2/512/BW_Facebook_glyph_svg-256.png" height="50" width="50" alt="https://fb.com/ravi-ranjan/100013827531045/" /></a>
+<a href="https://instagram.com/raviranjan_143" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/picons-social/57/38-instagram-3-128.png" height="50" width="50" alt="https://instagram.com/raviranjan_143" /></a>
+<a href="https://wa.me/917479410130/" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/miu-black-social-2/60/whatsapp-256.png" height="50" width="50" alt="https://wa.me/917479410130/" /></a>
+</p>
+
+
